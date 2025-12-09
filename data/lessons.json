@@ -1,0 +1,126 @@
+[
+  {
+    "id": "climate-basics",
+    "title": "Climate Change Basics",
+    "summary": "What climate change is, greenhouse gases, and why it matters.",
+    "duration": "10 min",
+    "content": [
+      {
+        "heading": "What is climate change?",
+        "text": "Climate change refers to long-term shifts in temperatures and weather patterns. It can be caused naturally and by human activities.",
+        "activity": "List two local examples of weather changes you noticed."
+      },
+      {
+        "heading": "Greenhouse gases",
+        "text": "Gases like CO2 and methane trap heat in the atmosphere, causing warming.",
+        "activity": "Think of three sources of CO2 in daily life."
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "Which gas is the primary contributor to human-caused warming?",
+        "options": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen",
+          "Argon"
+        ],
+        "answer": "Carbon dioxide"
+      },
+      {
+        "id": 2,
+        "question": "True or False: Climate change only refers to short-term weather events.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "False"
+      }
+    ]
+  },
+  {
+    "id": "causes-effects",
+    "title": "Causes & Effects of Global Warming",
+    "summary": "Human and natural drivers, and impacts on people and ecosystems.",
+    "duration": "12 min",
+    "content": [
+      {
+        "heading": "Causes",
+        "text": "Burning fossil fuels, deforestation, and intensive agriculture increase greenhouse gases.",
+        "activity": "Identify a local example of deforestation."
+      },
+      {
+        "heading": "Effects",
+        "text": "Sea level rise, stronger storms, heatwaves, and impacts on food supply.",
+        "activity": "Describe a way local communities can adapt."
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "Which activity increases atmospheric CO2?",
+        "options": [
+          "Photosynthesis",
+          "Burning coal",
+          "Rainfall",
+          "Erosion"
+        ],
+        "answer": "Burning coal"
+      },
+      {
+        "id": 2,
+        "question": "Which is a likely effect of global warming?",
+        "options": [
+          "Lower sea levels",
+          "More frequent heatwaves",
+          "Decreased temperatures",
+          "Less extreme weather"
+        ],
+        "answer": "More frequent heatwaves"
+      }
+    ]
+  },
+  {
+    "id": "mitigation-adaptation",
+    "title": "Mitigation & Adaptation",
+    "summary": "Actions to reduce emissions (mitigation) and adjust to impacts (adaptation).",
+    "duration": "15 min",
+    "content": [
+      {
+        "heading": "Mitigation",
+        "text": "Policies and technologies to reduce greenhouse gas emissions such as renewables and energy efficiency.",
+        "activity": "List one action your household can take to mitigate emissions."
+      },
+      {
+        "heading": "Adaptation",
+        "text": "Building resilience: flood defenses, early warning systems, and crop diversification.",
+        "activity": "Think of a local adaptation measure."
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "Which is a mitigation action?",
+        "options": [
+          "Building a sea wall",
+          "Planting mangroves",
+          "Switching to solar power",
+          "None of the above"
+        ],
+        "answer": "Switching to solar power"
+      },
+      {
+        "id": 2,
+        "question": "Adaptation aims to:",
+        "options": [
+          "Prevent climate change entirely",
+          "Adjust to climate impacts",
+          "Increase emissions",
+          "Stop all weather"
+        ],
+        "answer": "Adjust to climate impacts"
+      }
+    ]
+  }
+]

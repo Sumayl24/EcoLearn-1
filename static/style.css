@@ -1,0 +1,17 @@
+body { font-family: Inter, system-ui, Arial; margin:0; background:#f6faf5; color:#0b2e13; }
+.site-header { background: #0f5132; color: white; padding:24px; text-align:center; }
+.container { max-width:900px; margin:24px auto; padding:0 16px; }
+.lessons-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; }
+.lesson-card { background:white; padding:16px; border-radius:12px; box-shadow:0 4px 12px rgba(10,30,10,0.06); }
+.btn { background:#0f5132; color:white; padding:8px 12px; border-radius:8px; text-decoration:none; display:inline-block; }
+.btn-outline { border:1px solid #0f5132; color:#0f5132; padding:8px 12px; border-radius:8px; text-decoration:none; background:transparent; }
+.lesson-full { background:white; padding:18px; border-radius:10px; box-shadow:0 6px 18px rgba(10,30,10,0.06); }
+.quiz-page { background:white; padding:18px; border-radius:10px; }
+.chatbox { position:fixed; right:20px; bottom:20px; width:320px; max-width:90%; background:white; border-radius:12px; box-shadow:0 10px 30px rgba(3,10,5,0.15); overflow:hidden; }
+.chat-header { background:#0f5132; color:white; padding:10px; }
+.chat-messages { height:180px; padding:10px; overflow:auto; background:#f5fff6; }
+.chat-input { display:flex; gap:8px; padding:10px; }
+.chat-input input { flex:1; padding:8px; border-radius:8px; border:1px solid #ccc; }
+.result { margin-top:12px; padding:12px; border-radius:8px; background:#eef8ee; }
+.activity { background:#f3fff3; padding:8px; border-radius:6px; margin-top:8px; }
+.meta { color:#0f5132a8; }
